@@ -1,0 +1,34 @@
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.csproj.AssemblyReference.cache
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\VolLata_1A.Form1.resources
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.csproj.GenerateResource.cache
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.AssemblyInfoInputs.cache
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.AssemblyInfo.cs
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.csproj.CoreCompileInputs.cache
+C:\Users\Anchieta\Desktop\VolLata-1A\bin\Debug\net6.0-windows\VolLata-1A.exe
+C:\Users\Anchieta\Desktop\VolLata-1A\bin\Debug\net6.0-windows\VolLata-1A.deps.json
+C:\Users\Anchieta\Desktop\VolLata-1A\bin\Debug\net6.0-windows\VolLata-1A.runtimeconfig.json
+C:\Users\Anchieta\Desktop\VolLata-1A\bin\Debug\net6.0-windows\VolLata-1A.dll
+C:\Users\Anchieta\Desktop\VolLata-1A\bin\Debug\net6.0-windows\VolLata-1A.pdb
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.dll
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\refint\VolLata-1A.dll
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.pdb
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.genruntimeconfig.cache
+C:\Users\Anchieta\Desktop\VolLata-1A\obj\Debug\net6.0-windows\ref\VolLata-1A.dll
+F:\Visual Studio\VolLata-1A\bin\Debug\net6.0-windows\VolLata-1A.exe
+F:\Visual Studio\VolLata-1A\bin\Debug\net6.0-windows\VolLata-1A.deps.json
+F:\Visual Studio\VolLata-1A\bin\Debug\net6.0-windows\VolLata-1A.runtimeconfig.json
+F:\Visual Studio\VolLata-1A\bin\Debug\net6.0-windows\VolLata-1A.dll
+F:\Visual Studio\VolLata-1A\bin\Debug\net6.0-windows\VolLata-1A.pdb
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.csproj.AssemblyReference.cache
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\VolLata_1A.Form1.resources
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.csproj.GenerateResource.cache
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.AssemblyInfoInputs.cache
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.AssemblyInfo.cs
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.csproj.CoreCompileInputs.cache
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.dll
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\refint\VolLata-1A.dll
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.pdb
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\VolLata-1A.genruntimeconfig.cache
+F:\Visual Studio\VolLata-1A\obj\Debug\net6.0-windows\ref\VolLata-1A.dll
