@@ -1,0 +1,10 @@
+D:\3º ANO\Willian\tea\bin\Debug\tea.exe.config
+D:\3º ANO\Willian\tea\bin\Debug\tea.exe
+D:\3º ANO\Willian\tea\bin\Debug\tea.pdb
+D:\3º ANO\Willian\tea\obj\Debug\tea.csproj.AssemblyReference.cache
+D:\3º ANO\Willian\tea\obj\Debug\tea.Form1.resources
+D:\3º ANO\Willian\tea\obj\Debug\tea.Properties.Resources.resources
+D:\3º ANO\Willian\tea\obj\Debug\tea.csproj.GenerateResource.cache
+D:\3º ANO\Willian\tea\obj\Debug\tea.csproj.CoreCompileInputs.cache
+D:\3º ANO\Willian\tea\obj\Debug\tea.exe
+D:\3º ANO\Willian\tea\obj\Debug\tea.pdb
