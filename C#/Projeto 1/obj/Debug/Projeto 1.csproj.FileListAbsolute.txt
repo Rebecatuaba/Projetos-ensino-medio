@@ -1,0 +1,21 @@
+D:\3º ANO\Willian\Projeto 1\bin\Debug\Projeto 1.exe.config
+D:\3º ANO\Willian\Projeto 1\bin\Debug\Projeto 1.exe
+D:\3º ANO\Willian\Projeto 1\bin\Debug\Projeto 1.pdb
+D:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.csproj.AssemblyReference.cache
+D:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto_1.Form1.resources
+D:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto_1.Properties.Resources.resources
+D:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.csproj.GenerateResource.cache
+D:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.csproj.CoreCompileInputs.cache
+D:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.exe
+D:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.pdb
+E:\3º ANO\Willian\Projeto 1\bin\Debug\Projeto 1.exe.config
+E:\3º ANO\Willian\Projeto 1\bin\Debug\Projeto 1.exe
+E:\3º ANO\Willian\Projeto 1\bin\Debug\Projeto 1.pdb
+E:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.csproj.AssemblyReference.cache
+E:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.csproj.SuggestedBindingRedirects.cache
+E:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto_1.Form1.resources
+E:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto_1.Properties.Resources.resources
+E:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.csproj.GenerateResource.cache
+E:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.csproj.CoreCompileInputs.cache
+E:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.exe
+E:\3º ANO\Willian\Projeto 1\obj\Debug\Projeto 1.pdb

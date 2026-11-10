@@ -1,0 +1,15 @@
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\bin\Debug\netcoreapp3.1\nomesobrenome1A.exe
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\bin\Debug\netcoreapp3.1\nomesobrenome1A.deps.json
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\bin\Debug\netcoreapp3.1\nomesobrenome1A.runtimeconfig.json
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\bin\Debug\netcoreapp3.1\nomesobrenome1A.runtimeconfig.dev.json
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\bin\Debug\netcoreapp3.1\nomesobrenome1A.dll
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\bin\Debug\netcoreapp3.1\nomesobrenome1A.pdb
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\obj\Debug\netcoreapp3.1\nomesobrenome1A.csproj.AssemblyReference.cache
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\obj\Debug\netcoreapp3.1\nomesobrenome1A.Form1.resources
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\obj\Debug\netcoreapp3.1\nomesobrenome1A.csproj.GenerateResource.cache
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\obj\Debug\netcoreapp3.1\nomesobrenome1A.AssemblyInfoInputs.cache
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\obj\Debug\netcoreapp3.1\nomesobrenome1A.AssemblyInfo.cs
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\obj\Debug\netcoreapp3.1\nomesobrenome1A.csproj.CoreCompileInputs.cache
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\obj\Debug\netcoreapp3.1\nomesobrenome1A.dll
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\obj\Debug\netcoreapp3.1\nomesobrenome1A.pdb
+C:\Users\Anchieta\Desktop\nomesob1A\nomesobrenome1A\obj\Debug\netcoreapp3.1\nomesobrenome1A.genruntimeconfig.cache
