@@ -1,0 +1,53 @@
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.exe
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.deps.json
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.runtimeconfig.json
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.dll
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.pdb
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.csproj.AssemblyReference.cache
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão_de_moedas.Form1.resources
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.csproj.GenerateResource.cache
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.AssemblyInfoInputs.cache
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.AssemblyInfo.cs
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.csproj.CoreCompileInputs.cache
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.dll
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\refint\Conversão de moedas.dll
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.pdb
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.genruntimeconfig.cache
+D:\Fafa\Visual Studio\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\ref\Conversão de moedas.dll
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.csproj.AssemblyReference.cache
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão_de_moedas.Form1.resources
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.csproj.GenerateResource.cache
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.AssemblyInfoInputs.cache
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.AssemblyInfo.cs
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.csproj.CoreCompileInputs.cache
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.dll
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\refint\Conversão de moedas.dll
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.pdb
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.exe
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.deps.json
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.runtimeconfig.json
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.dll
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.pdb
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.genruntimeconfig.cache
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\ref\Conversão de moedas.dll
+D:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão_de_moedas.Properties.Resources.resources
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.exe
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.deps.json
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.runtimeconfig.json
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.dll
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\bin\Debug\net6.0-windows\Conversão de moedas.pdb
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.csproj.AssemblyReference.cache
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão_de_moedas.Form1.resources
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão_de_moedas.Properties.Resources.resources
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.csproj.GenerateResource.cache
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.AssemblyInfoInputs.cache
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.AssemblyInfo.cs
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.csproj.CoreCompileInputs.cache
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.dll
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\refint\Conversão de moedas.dll
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.pdb
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\Conversão de moedas.genruntimeconfig.cache
+E:\Fafa\Visual Studio\2ºAno\Conversão de moedas\Conversão de moedas\obj\Debug\net6.0-windows\ref\Conversão de moedas.dll
