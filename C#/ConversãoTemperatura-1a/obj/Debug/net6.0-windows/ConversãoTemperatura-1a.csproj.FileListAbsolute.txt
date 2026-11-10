@@ -1,0 +1,51 @@
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.exe
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.deps.json
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.runtimeconfig.json
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.dll
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.pdb
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.csproj.AssemblyReference.cache
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura_1a.Form1.resources
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.csproj.GenerateResource.cache
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.AssemblyInfoInputs.cache
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.AssemblyInfo.cs
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.csproj.CoreCompileInputs.cache
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.dll
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\refint\ConversãoTemperatura-1a.dll
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.pdb
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.genruntimeconfig.cache
+C:\Users\Anchieta\Desktop\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ref\ConversãoTemperatura-1a.dll
+F:\Banco de dados\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.exe
+F:\Banco de dados\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.deps.json
+F:\Banco de dados\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.runtimeconfig.json
+F:\Banco de dados\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.dll
+F:\Banco de dados\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.pdb
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.csproj.AssemblyReference.cache
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura_1a.Form1.resources
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.csproj.GenerateResource.cache
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.GeneratedMSBuildEditorConfig.editorconfig
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.AssemblyInfoInputs.cache
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.AssemblyInfo.cs
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.csproj.CoreCompileInputs.cache
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.dll
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\refint\ConversãoTemperatura-1a.dll
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.pdb
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.genruntimeconfig.cache
+F:\Banco de dados\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ref\ConversãoTemperatura-1a.dll
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.exe
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.deps.json
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.runtimeconfig.json
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.dll
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\bin\Debug\net6.0-windows\ConversãoTemperatura-1a.pdb
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.csproj.AssemblyReference.cache
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura_1a.Form1.resources
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.csproj.GenerateResource.cache
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.AssemblyInfoInputs.cache
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.AssemblyInfo.cs
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.dll
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\refint\ConversãoTemperatura-1a.dll
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.pdb
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ConversãoTemperatura-1a.genruntimeconfig.cache
+D:\Visual Studio\Lista de atividades\ConversãoTemperatura-1a\obj\Debug\net6.0-windows\ref\ConversãoTemperatura-1a.dll

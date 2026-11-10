@@ -1,0 +1,51 @@
+F:\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.exe
+F:\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.deps.json
+F:\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.runtimeconfig.json
+F:\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.dll
+F:\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.pdb
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.csproj.AssemblyReference.cache
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.Form1.resources
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.csproj.GenerateResource.cache
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.GeneratedMSBuildEditorConfig.editorconfig
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.AssemblyInfoInputs.cache
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.AssemblyInfo.cs
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.csproj.CoreCompileInputs.cache
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.dll
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\refint\conversaocert.dll
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.pdb
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.genruntimeconfig.cache
+F:\conversaocert\conversaocert\obj\Debug\net6.0-windows\ref\conversaocert.dll
+F:\Banco de dados\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.exe
+F:\Banco de dados\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.deps.json
+F:\Banco de dados\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.runtimeconfig.json
+F:\Banco de dados\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.dll
+F:\Banco de dados\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.pdb
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.csproj.AssemblyReference.cache
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.Form1.resources
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.csproj.GenerateResource.cache
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.GeneratedMSBuildEditorConfig.editorconfig
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.AssemblyInfoInputs.cache
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.AssemblyInfo.cs
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.csproj.CoreCompileInputs.cache
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.dll
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\refint\conversaocert.dll
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.pdb
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.genruntimeconfig.cache
+F:\Banco de dados\conversaocert\conversaocert\obj\Debug\net6.0-windows\ref\conversaocert.dll
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.exe
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.deps.json
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.runtimeconfig.json
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.dll
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\bin\Debug\net6.0-windows\conversaocert.pdb
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.csproj.AssemblyReference.cache
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.Form1.resources
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.csproj.GenerateResource.cache
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.AssemblyInfoInputs.cache
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.AssemblyInfo.cs
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.dll
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\refint\conversaocert.dll
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.pdb
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\conversaocert.genruntimeconfig.cache
+D:\Visual Studio\Lista de atividades\conversaocert\conversaocert\obj\Debug\net6.0-windows\ref\conversaocert.dll
