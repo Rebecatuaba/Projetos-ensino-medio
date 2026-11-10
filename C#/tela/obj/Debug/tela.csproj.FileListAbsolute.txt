@@ -1,0 +1,11 @@
+E:\3º ANO\Willian\tela\bin\Debug\tela.exe.config
+E:\3º ANO\Willian\tela\bin\Debug\tela.exe
+E:\3º ANO\Willian\tela\bin\Debug\tela.pdb
+E:\3º ANO\Willian\tela\obj\Debug\tela.csproj.AssemblyReference.cache
+E:\3º ANO\Willian\tela\obj\Debug\tela.csproj.SuggestedBindingRedirects.cache
+E:\3º ANO\Willian\tela\obj\Debug\tela.Form1.resources
+E:\3º ANO\Willian\tela\obj\Debug\tela.Properties.Resources.resources
+E:\3º ANO\Willian\tela\obj\Debug\tela.csproj.GenerateResource.cache
+E:\3º ANO\Willian\tela\obj\Debug\tela.csproj.CoreCompileInputs.cache
+E:\3º ANO\Willian\tela\obj\Debug\tela.exe
+E:\3º ANO\Willian\tela\obj\Debug\tela.pdb
