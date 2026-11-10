@@ -1,0 +1,18 @@
+D:\Visual Studio\mega cena\mega cena\bin\Debug\net6.0-windows\mega cena.exe
+D:\Visual Studio\mega cena\mega cena\bin\Debug\net6.0-windows\mega cena.deps.json
+D:\Visual Studio\mega cena\mega cena\bin\Debug\net6.0-windows\mega cena.runtimeconfig.json
+D:\Visual Studio\mega cena\mega cena\bin\Debug\net6.0-windows\mega cena.dll
+D:\Visual Studio\mega cena\mega cena\bin\Debug\net6.0-windows\mega cena.pdb
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega cena.csproj.AssemblyReference.cache
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega_cena.Form1.resources
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega cena.csproj.GenerateResource.cache
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega cena.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega cena.AssemblyInfoInputs.cache
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega cena.AssemblyInfo.cs
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega cena.csproj.CoreCompileInputs.cache
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega cena.dll
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\refint\mega cena.dll
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega cena.pdb
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega cena.genruntimeconfig.cache
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\ref\mega cena.dll
+D:\Visual Studio\mega cena\mega cena\obj\Debug\net6.0-windows\mega_cena.Properties.Resources.resources

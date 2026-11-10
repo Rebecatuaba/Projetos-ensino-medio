@@ -1,0 +1,22 @@
+D:\Visual Studio\Aplicativo1A\bin\Debug\Aplicativo1A.exe.config
+D:\Visual Studio\Aplicativo1A\bin\Debug\Aplicativo1A.exe
+D:\Visual Studio\Aplicativo1A\bin\Debug\Aplicativo1A.pdb
+D:\Visual Studio\Aplicativo1A\obj\Debug\Aplicativo1A.csproj.AssemblyReference.cache
+D:\Visual Studio\Aplicativo1A\obj\Debug\Aplicativo1A.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Aplicativo1A\obj\Debug\Aplicativo1A.Form1.resources
+D:\Visual Studio\Aplicativo1A\obj\Debug\Aplicativo1A.Properties.Resources.resources
+D:\Visual Studio\Aplicativo1A\obj\Debug\Aplicativo1A.csproj.GenerateResource.cache
+D:\Visual Studio\Aplicativo1A\obj\Debug\Aplicativo1A.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Aplicativo1A\obj\Debug\Aplicativo1A.exe
+D:\Visual Studio\Aplicativo1A\obj\Debug\Aplicativo1A.pdb
+D:\Visual Studio\Lista de atividades\Aplicativo1A\bin\Debug\Aplicativo1A.exe.config
+D:\Visual Studio\Lista de atividades\Aplicativo1A\bin\Debug\Aplicativo1A.exe
+D:\Visual Studio\Lista de atividades\Aplicativo1A\bin\Debug\Aplicativo1A.pdb
+D:\Visual Studio\Lista de atividades\Aplicativo1A\obj\Debug\Aplicativo1A.csproj.AssemblyReference.cache
+D:\Visual Studio\Lista de atividades\Aplicativo1A\obj\Debug\Aplicativo1A.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Lista de atividades\Aplicativo1A\obj\Debug\Aplicativo1A.Form1.resources
+D:\Visual Studio\Lista de atividades\Aplicativo1A\obj\Debug\Aplicativo1A.Properties.Resources.resources
+D:\Visual Studio\Lista de atividades\Aplicativo1A\obj\Debug\Aplicativo1A.csproj.GenerateResource.cache
+D:\Visual Studio\Lista de atividades\Aplicativo1A\obj\Debug\Aplicativo1A.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Lista de atividades\Aplicativo1A\obj\Debug\Aplicativo1A.exe
+D:\Visual Studio\Lista de atividades\Aplicativo1A\obj\Debug\Aplicativo1A.pdb

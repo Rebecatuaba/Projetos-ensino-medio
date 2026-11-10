@@ -1,0 +1,21 @@
+-listar todas as foreign key de uma tabela
+
+SELECT 
+  TABLE_NAME,COLUMN_NAME,CONSTRAINT_NAME, REFERENCED_TABLE_NAME,REFERENCED_COLUMN_NAME
+FROM
+  INFORMATION_SCHEMA.KEY_COLUMN_USAGE
+WHERE
+  REFERENCED_TABLE_SCHEMA = "seu_banco" AND
+  REFERENCED_TABLE_NAME = "sua_tabela";
+
+-apagar uma coluna
+ALTER TABLE <tabela> DROP COLUMN <coluna>;
+
+-apagar chave estrangeira
+alter table tabela drop foreign key nomefk
+
+-criar chave primaria
+alter table nome_da_tabela_que_tem_a_FK
+add foreign key (nome_do_campo_que_tem_FK)
+references nome_da_tabela_de_onde_vem_a_informacao
+(nome_do_campo_que_vai_pegar_a_informacao)

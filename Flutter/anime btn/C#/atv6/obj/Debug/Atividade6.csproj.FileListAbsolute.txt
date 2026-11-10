@@ -1,0 +1,11 @@
+E:\Visual Studio\atv7\obj\Debug\Atividade6.csproj.AssemblyReference.cache
+E:\Visual Studio\atv7\obj\Debug\Atividade6.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\atv7\obj\Debug\atv7.Form1.resources
+E:\Visual Studio\atv7\obj\Debug\atv7.Properties.Resources.resources
+E:\Visual Studio\atv7\obj\Debug\Atividade6.csproj.GenerateResource.cache
+E:\Visual Studio\atv7\obj\Debug\Atividade6.csproj.CoreCompileInputs.cache
+E:\Visual Studio\atv7\bin\Debug\atv7.exe.config
+E:\Visual Studio\atv7\bin\Debug\atv7.exe
+E:\Visual Studio\atv7\bin\Debug\atv7.pdb
+E:\Visual Studio\atv7\obj\Debug\atv7.exe
+E:\Visual Studio\atv7\obj\Debug\atv7.pdb

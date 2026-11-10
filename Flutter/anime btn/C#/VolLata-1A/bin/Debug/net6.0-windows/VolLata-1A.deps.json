@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VolLata-1A/1.0.0": {
+        "runtime": {
+          "VolLata-1A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VolLata-1A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

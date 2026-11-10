@@ -1,0 +1,17 @@
+D:\Visual Studio\Exibir nome\bin\Debug\net6.0-windows\Exibir nome.exe
+D:\Visual Studio\Exibir nome\bin\Debug\net6.0-windows\Exibir nome.deps.json
+D:\Visual Studio\Exibir nome\bin\Debug\net6.0-windows\Exibir nome.runtimeconfig.json
+D:\Visual Studio\Exibir nome\bin\Debug\net6.0-windows\Exibir nome.dll
+D:\Visual Studio\Exibir nome\bin\Debug\net6.0-windows\Exibir nome.pdb
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\Exibir nome.csproj.AssemblyReference.cache
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\Exibir_nome.Form1.resources
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\Exibir nome.csproj.GenerateResource.cache
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\Exibir nome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\Exibir nome.AssemblyInfoInputs.cache
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\Exibir nome.AssemblyInfo.cs
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\Exibir nome.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\Exibir nome.dll
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\refint\Exibir nome.dll
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\Exibir nome.pdb
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\Exibir nome.genruntimeconfig.cache
+D:\Visual Studio\Exibir nome\obj\Debug\net6.0-windows\ref\Exibir nome.dll

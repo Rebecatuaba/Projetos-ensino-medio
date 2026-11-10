@@ -1,0 +1,11 @@
+E:\3º ANO\Willian\CadastroEntrada\bin\Debug\CadastroEntrada.exe.config
+E:\3º ANO\Willian\CadastroEntrada\bin\Debug\CadastroEntrada.exe
+E:\3º ANO\Willian\CadastroEntrada\bin\Debug\CadastroEntrada.pdb
+E:\3º ANO\Willian\CadastroEntrada\obj\Debug\CadastroEntrada.csproj.AssemblyReference.cache
+E:\3º ANO\Willian\CadastroEntrada\obj\Debug\CadastroEntrada.csproj.SuggestedBindingRedirects.cache
+E:\3º ANO\Willian\CadastroEntrada\obj\Debug\CadastroEntrada.Form1.resources
+E:\3º ANO\Willian\CadastroEntrada\obj\Debug\CadastroEntrada.Properties.Resources.resources
+E:\3º ANO\Willian\CadastroEntrada\obj\Debug\CadastroEntrada.csproj.GenerateResource.cache
+E:\3º ANO\Willian\CadastroEntrada\obj\Debug\CadastroEntrada.csproj.CoreCompileInputs.cache
+E:\3º ANO\Willian\CadastroEntrada\obj\Debug\CadastroEntrada.exe
+E:\3º ANO\Willian\CadastroEntrada\obj\Debug\CadastroEntrada.pdb

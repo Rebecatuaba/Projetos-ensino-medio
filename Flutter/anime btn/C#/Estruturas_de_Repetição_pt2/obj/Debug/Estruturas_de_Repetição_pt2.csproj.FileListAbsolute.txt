@@ -1,0 +1,7 @@
+D:\Fafa\Visual Studio\2ºAno\Estruturas_de_Repetição_pt2\bin\Debug\Estruturas_de_Repetição_pt2.exe.config
+D:\Fafa\Visual Studio\2ºAno\Estruturas_de_Repetição_pt2\bin\Debug\Estruturas_de_Repetição_pt2.exe
+D:\Fafa\Visual Studio\2ºAno\Estruturas_de_Repetição_pt2\bin\Debug\Estruturas_de_Repetição_pt2.pdb
+D:\Fafa\Visual Studio\2ºAno\Estruturas_de_Repetição_pt2\obj\Debug\Estruturas_de_Repetição_pt2.csproj.AssemblyReference.cache
+D:\Fafa\Visual Studio\2ºAno\Estruturas_de_Repetição_pt2\obj\Debug\Estruturas_de_Repetição_pt2.csproj.CoreCompileInputs.cache
+D:\Fafa\Visual Studio\2ºAno\Estruturas_de_Repetição_pt2\obj\Debug\Estruturas_de_Repetição_pt2.exe
+D:\Fafa\Visual Studio\2ºAno\Estruturas_de_Repetição_pt2\obj\Debug\Estruturas_de_Repetição_pt2.pdb

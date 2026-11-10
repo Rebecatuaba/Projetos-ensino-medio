@@ -1,0 +1,7 @@
+E:\Fafa\Visual Studio\2ºAno\aula_260923\bin\Debug\aula_260923.exe.config
+E:\Fafa\Visual Studio\2ºAno\aula_260923\bin\Debug\aula_260923.exe
+E:\Fafa\Visual Studio\2ºAno\aula_260923\bin\Debug\aula_260923.pdb
+E:\Fafa\Visual Studio\2ºAno\aula_260923\obj\Debug\aula_260923.csproj.AssemblyReference.cache
+E:\Fafa\Visual Studio\2ºAno\aula_260923\obj\Debug\aula_260923.csproj.CoreCompileInputs.cache
+E:\Fafa\Visual Studio\2ºAno\aula_260923\obj\Debug\aula_260923.exe
+E:\Fafa\Visual Studio\2ºAno\aula_260923\obj\Debug\aula_260923.pdb

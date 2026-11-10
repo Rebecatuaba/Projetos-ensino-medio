@@ -1,0 +1,34 @@
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\triangulo1A.csproj.AssemblyReference.cache
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\triangulo1A.Form1.resources
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\triangulo1A.csproj.GenerateResource.cache
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\triangulo1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\triangulo1A.AssemblyInfoInputs.cache
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\triangulo1A.AssemblyInfo.cs
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\triangulo1A.csproj.CoreCompileInputs.cache
+C:\Users\Anchieta\Desktop\triangulo1A\bin\Debug\net6.0-windows\triangulo1A.exe
+C:\Users\Anchieta\Desktop\triangulo1A\bin\Debug\net6.0-windows\triangulo1A.deps.json
+C:\Users\Anchieta\Desktop\triangulo1A\bin\Debug\net6.0-windows\triangulo1A.runtimeconfig.json
+C:\Users\Anchieta\Desktop\triangulo1A\bin\Debug\net6.0-windows\triangulo1A.dll
+C:\Users\Anchieta\Desktop\triangulo1A\bin\Debug\net6.0-windows\triangulo1A.pdb
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\triangulo1A.dll
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\refint\triangulo1A.dll
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\triangulo1A.pdb
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\triangulo1A.genruntimeconfig.cache
+C:\Users\Anchieta\Desktop\triangulo1A\obj\Debug\net6.0-windows\ref\triangulo1A.dll
+F:\Visual Studio\Triangulo1A\bin\Debug\net6.0-windows\triangulo1A.exe
+F:\Visual Studio\Triangulo1A\bin\Debug\net6.0-windows\triangulo1A.deps.json
+F:\Visual Studio\Triangulo1A\bin\Debug\net6.0-windows\triangulo1A.runtimeconfig.json
+F:\Visual Studio\Triangulo1A\bin\Debug\net6.0-windows\triangulo1A.dll
+F:\Visual Studio\Triangulo1A\bin\Debug\net6.0-windows\triangulo1A.pdb
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\triangulo1A.csproj.AssemblyReference.cache
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\triangulo1A.Form1.resources
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\triangulo1A.csproj.GenerateResource.cache
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\triangulo1A.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\triangulo1A.AssemblyInfoInputs.cache
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\triangulo1A.AssemblyInfo.cs
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\triangulo1A.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\triangulo1A.dll
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\refint\triangulo1A.dll
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\triangulo1A.pdb
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\triangulo1A.genruntimeconfig.cache
+F:\Visual Studio\Triangulo1A\obj\Debug\net6.0-windows\ref\triangulo1A.dll

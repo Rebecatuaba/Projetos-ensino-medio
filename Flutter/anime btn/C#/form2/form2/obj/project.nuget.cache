@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GOaZ73cyYmrq0UXlXZiURG0t23+bhKgREgeqyDHoa7jHmI2IEjgTaXieq23pVurwDl1ad6P5bH7qNUlKOPvejw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\Lista de atividades\\form2\\form2\\form2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rebec\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

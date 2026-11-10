@@ -1,0 +1,51 @@
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.exe
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.deps.json
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.runtimeconfig.json
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.dll
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.pdb
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.csproj.AssemblyReference.cache
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros_1A.Form1.resources
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.csproj.GenerateResource.cache
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.AssemblyInfoInputs.cache
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.AssemblyInfo.cs
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.csproj.CoreCompileInputs.cache
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.dll
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\refint\Doisnumeros-1A.dll
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.pdb
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.genruntimeconfig.cache
+C:\Users\Anchieta\Desktop\Doisnumeros-1A\obj\Debug\net6.0-windows\ref\Doisnumeros-1A.dll
+F:\Banco de dados\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.exe
+F:\Banco de dados\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.deps.json
+F:\Banco de dados\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.runtimeconfig.json
+F:\Banco de dados\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.dll
+F:\Banco de dados\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.pdb
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.csproj.AssemblyReference.cache
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros_1A.Form1.resources
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.csproj.GenerateResource.cache
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.GeneratedMSBuildEditorConfig.editorconfig
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.AssemblyInfoInputs.cache
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.AssemblyInfo.cs
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.csproj.CoreCompileInputs.cache
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.dll
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\refint\Doisnumeros-1A.dll
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.pdb
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.genruntimeconfig.cache
+F:\Banco de dados\Doisnumeros-1A\obj\Debug\net6.0-windows\ref\Doisnumeros-1A.dll
+F:\Visual Studio\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.exe
+F:\Visual Studio\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.deps.json
+F:\Visual Studio\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.runtimeconfig.json
+F:\Visual Studio\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.dll
+F:\Visual Studio\Doisnumeros-1A\bin\Debug\net6.0-windows\Doisnumeros-1A.pdb
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.csproj.AssemblyReference.cache
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros_1A.Form1.resources
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.csproj.GenerateResource.cache
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.AssemblyInfoInputs.cache
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.AssemblyInfo.cs
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.dll
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\refint\Doisnumeros-1A.dll
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.pdb
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\Doisnumeros-1A.genruntimeconfig.cache
+F:\Visual Studio\Doisnumeros-1A\obj\Debug\net6.0-windows\ref\Doisnumeros-1A.dll
