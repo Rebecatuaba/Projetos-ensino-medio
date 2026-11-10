@@ -1,0 +1,7 @@
+E:\Fafa\Visual Studio\2ºAno\lista_if_else\bin\Debug\lista_if_else.exe.config
+E:\Fafa\Visual Studio\2ºAno\lista_if_else\bin\Debug\lista_if_else.exe
+E:\Fafa\Visual Studio\2ºAno\lista_if_else\bin\Debug\lista_if_else.pdb
+E:\Fafa\Visual Studio\2ºAno\lista_if_else\obj\Debug\lista_if_else.csproj.AssemblyReference.cache
+E:\Fafa\Visual Studio\2ºAno\lista_if_else\obj\Debug\lista_if_else.csproj.CoreCompileInputs.cache
+E:\Fafa\Visual Studio\2ºAno\lista_if_else\obj\Debug\lista_if_else.exe
+E:\Fafa\Visual Studio\2ºAno\lista_if_else\obj\Debug\lista_if_else.pdb

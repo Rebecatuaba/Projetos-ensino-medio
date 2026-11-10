@@ -1,0 +1,34 @@
+D:\VisualStudio\Listadeatividade01\MaiorNumA\bin\Debug\net6.0-windows\MaiorNumA.exe
+D:\VisualStudio\Listadeatividade01\MaiorNumA\bin\Debug\net6.0-windows\MaiorNumA.deps.json
+D:\VisualStudio\Listadeatividade01\MaiorNumA\bin\Debug\net6.0-windows\MaiorNumA.runtimeconfig.json
+D:\VisualStudio\Listadeatividade01\MaiorNumA\bin\Debug\net6.0-windows\MaiorNumA.dll
+D:\VisualStudio\Listadeatividade01\MaiorNumA\bin\Debug\net6.0-windows\MaiorNumA.pdb
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.csproj.AssemblyReference.cache
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.Form1.resources
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.csproj.GenerateResource.cache
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.AssemblyInfoInputs.cache
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.AssemblyInfo.cs
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.dll
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\refint\MaiorNumA.dll
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.pdb
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.genruntimeconfig.cache
+D:\VisualStudio\Listadeatividade01\MaiorNumA\obj\Debug\net6.0-windows\ref\MaiorNumA.dll
+F:\Visual Studio\MaiorNumA\bin\Debug\net6.0-windows\MaiorNumA.exe
+F:\Visual Studio\MaiorNumA\bin\Debug\net6.0-windows\MaiorNumA.deps.json
+F:\Visual Studio\MaiorNumA\bin\Debug\net6.0-windows\MaiorNumA.runtimeconfig.json
+F:\Visual Studio\MaiorNumA\bin\Debug\net6.0-windows\MaiorNumA.dll
+F:\Visual Studio\MaiorNumA\bin\Debug\net6.0-windows\MaiorNumA.pdb
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.csproj.AssemblyReference.cache
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.Form1.resources
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.csproj.GenerateResource.cache
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.AssemblyInfoInputs.cache
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.AssemblyInfo.cs
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.csproj.CoreCompileInputs.cache
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.dll
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\refint\MaiorNumA.dll
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.pdb
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\MaiorNumA.genruntimeconfig.cache
+F:\Visual Studio\MaiorNumA\obj\Debug\net6.0-windows\ref\MaiorNumA.dll
